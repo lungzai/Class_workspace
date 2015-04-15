@@ -22,7 +22,7 @@ Put your descriptions below.
 ##An example is the use of the raster calculator/map algebra tool to generate a suitability model. For instance, to find ideal park sites, the following forumla can be used:
 Population Density > x * Distance to Parks < y = Ideal Park Sites
 ##Loop
-
+''' Piece of code which you want to repeat n number of times When you have a piece of code you want to run x number of times, then code within that code which you want to run y number of times, you use what is known as a "nested loop". Can use functions such as "if", "elif", and "else"'''
 ##Software
 
 ##Try/Except
